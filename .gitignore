@@ -11,3 +11,4 @@ logs
 coverage
 coverage.json
 typechain
+package-lock.json
